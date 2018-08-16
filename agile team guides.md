@@ -1,4 +1,4 @@
-# Story Definitions of Ready / done
+# Guides in Agile Scrum / Kan Ban teams
 
 ## Definition of Ready
 + Goal : prevent problems before they have a chance to start.
