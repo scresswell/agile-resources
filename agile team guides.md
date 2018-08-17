@@ -1,10 +1,10 @@
 # Guides in Agile Scrum / Kan Ban teams
 
 ## Definition of Ready
-+ Goal : prevent problems before they have a chance to start.
-+ control what product backlog items can enter an iteration.
++ Goal : Stories are fleshed out enough before we commit to delivering them.
 + enables a team to specify certain pre-conditions that must be fulfilled before a story is allowed into an iteration.
-+ can be dangerous, push teams towards sequential / stage-gate approach.
+  + can be dangerous, push teams towards sequential / stage-gate approach.
+
 ### Examples
 + [I.N.V.E.S.T](https://xp123.com/articles/invest-in-good-stories-and-smart-tasks/)
   + *I* : Inedpendent.
@@ -24,19 +24,18 @@
     - Can be tested without having to wait for subsequent stories to be delivered.
 + User story described.
   _“As a [persona], I [want to], [so that].”_
++ Prioritised by the Product Owner.
 + Acceptance criteria written.
 + Tasked - we know which tasks need to be done to achieve the Story.
 + Sized with tasks and relative complexity in mind.
 + Impacts on existing components, teams or projects have been identified and communicated.
-+ Prioritised by the Product Owner.
-
++ Success criteria defined and metric gathering discussed.
 
 ## Definition of Done
 ### Examples
-+ Code / implementation peer reviewed.
++ Code and implementation peer reviewed.
 + Test activities completed and reviewed.
   + developer tests implemented (unit, integration, performance tests).
-  + walk-through.
   + test approach documented.
   + automation tests created, reviewed.
 + Acceptance criteria met.
@@ -45,6 +44,8 @@
 + Demo'd to Product Owner / stakeholder / customer.
 + Activities to measure / report on success started.
 + Documentation / knowledge sharing completed.
+  + wiki
+  + walk-through.
 + Tech debt tasks raised.
 
 ## Ways of Working
