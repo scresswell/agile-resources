@@ -37,9 +37,9 @@ Identify any things which the team could change to improve the score (by you, us
 Go around each aspect.
 The actions go on the team scrum/kanban board and get looked at mid sprint, and at the next retro - Have we done/started doing any of these?
 
-####
-“Smile, Sigh, Experiment to try”
+#### Smile, Sigh, Experiment to try
 What has made you happy, what has made you less than happy, what should we try out?
+
 Divide the canvas in to three, with an aspect in each: Smiley face, Sad Face, and Experiment beaker work well
 Get the team to add at least one thing, and a max of three things (there top three).
 Dot vote on the "things to try" and pick the top two to pull in to the next sprint.
