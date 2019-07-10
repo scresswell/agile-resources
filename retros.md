@@ -81,4 +81,7 @@ You want the team to reflect on things they/or the team did.
 Each team member thinks about at least one thing for each shoe - try to limit to a max of three things on any one thing, to get them thinking broadly.
 Once you have a list in the categories
 > Prepare
-From our list - what do we pack for our next journey? what did we not have last time that we need this time?
+* From our list - what do we pack for our next journey?
+* what did we not have last time that we need this time?
+* who is responsible for packing these things?
+* how will we recognise that we're missing these things when we're on the journey?
