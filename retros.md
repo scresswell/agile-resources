@@ -66,3 +66,19 @@ Draw a timeline
 Mark any key dates, milestones or events - people leaving, product shipping, pivots
 Get team members to draw a line representing either happiness, productivity, or something else
 "Starting on the beginning of the timeline, and keeping the marker on the canvas the whole time. Please share your Peaks and Valley timeline. You should do so by drawing the line and speaking at the same time."
+
+#### Tools for the journey
+Good when your team has just completed a journey where they had to overcome obstacles and work together.
+> Reflect:
+* Shoes - what kept us moving
+* Scroggin - sustained us
+* Map/Compass - what was a good guide, what kept us on track > we need this from our stakeholders
+* Shelter/Hat - what protected us
+* Woollen socks - good sometimes, itchy others - it didn't work they way we thought
+* Cellphone - what distracted us
+* Heavy pack - what slowed us down
+You want the team to reflect on things they/or the team did.
+Each team member thinks about at least one thing for each shoe - try to limit to a max of three things on any one thing, to get them thinking broadly.
+Once you have a list in the categories
+> Prepare
+From our list - what do we pack for our next journey? what did we not have last time that we need this time?
