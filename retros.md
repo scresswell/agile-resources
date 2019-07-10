@@ -70,17 +70,17 @@ Get team members to draw a line representing either happiness, productivity, or 
 #### Tools for the journey
 Good when your team has just completed a journey where they had to overcome obstacles and work together.
 > Reflect:
-* Shoes - what kept us moving
+* Shoes - kept us moving
 * Scroggin - sustained us
-* Map/Compass - what was a good guide, what kept us on track > we need this from our stakeholders
+* Map/Compass - was an essential helper, what kept us on track
 * Shelter/Hat - what protected us
-* Woollen socks - good sometimes, itchy others - it didn't work they way we thought
+* Woollen socks - what was good sometimes, but itchy other times
 * Cellphone - what distracted us
 * Heavy pack - what slowed us down
 You want the team to reflect on things they/or the team did.
 Each team member thinks about at least one thing for each shoe - try to limit to a max of three things on any one thing, to get them thinking broadly.
 Once you have a list in the categories
-> Prepare
+> Prepare - Pack your back
 * From our list - what do we pack for our next journey?
 * what did we not have last time that we need this time?
 * who is responsible for packing these things?
