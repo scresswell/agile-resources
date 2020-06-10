@@ -1,4 +1,10 @@
 ### Retrospective
+#### SHIT
+- *S*uccesses
+- *H*elped Us
+- *I*nsights & Lessons
+- *T*eam Shoutouts
+
 #### The 3 Ls: Liked – Learned – Lacked
 http://www.funretrospectives.com/the-3-ls-liked-learned-lacked/
 
