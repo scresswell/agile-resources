@@ -2,7 +2,7 @@ This is a good exercise for a new team or a team that needs to visualise their s
 
 It's a safe exercise, allowing people to share as much or as little about what skills, interests and aspirations they have.
 
-* Setup *
+##Setup
 
 Create a collaborative context; explain that the whole team are going to participate into a special market place. 
 
@@ -14,7 +14,7 @@ In this market place the team member presents
 
 It is important to emphasize to the team that this is an appreciative exercise. 
 
-* Make a poster *
+##Make a poster
 
 Divide an A3 paper in to thirds.
 
@@ -24,10 +24,11 @@ In each third, answer the following questions:
 * Other skills I have (That may be outside their role, but which may be useful or relevant to the team / project)
 * Skills I'd like to lear (Skills they want to develop - may not be during the project)
 
-*Present your poster (5 min per poster)*
+##Present your poster (5 min per poster)
+
 Each person presents their poster. 
 
-* Reflect *
+##Reflect
 
 For the skills we want to develop
 
