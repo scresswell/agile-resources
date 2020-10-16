@@ -1,6 +1,4 @@
-# Guides in Agile Scrum / Kan Ban teams
-
-## Definition of Ready
+## Definition of Ready Examples
 + Goal : Stories are fleshed out enough before we commit to delivering them.
 + Enables a team to specify certain pre-conditions that must be fulfilled before a story is allowed into an iteration.
   + can be dangerous, push teams towards sequential / stage-gate approach.
