@@ -1,0 +1,41 @@
+You're probably wondering why we use relative sizing for estimating, rather than time-based sizing such as hours, days, or weeks. Take a look at the following skyline, you might recognize it:
+
+
+
+Photo credit: istock.com/xavierarnau
+
+
+
+There is an arrow pointing to the tallest building in this picture. If you recognise the skyline, resist the temptation to look this up and have a guess at how tall the building is to the nearest meter. When you've decided, write down your best estimate. Have you written it down? Are you sure?
+
+Now before we talk about the actual answer, I'd just like you to think for a moment about how you arrived at the estimate you have written down. What were the factors that you considered? Did you think about how many floors there were, or perhaps estimated how tall each floor was and multiplied the number by two? Do you know how tall one of the other buildings is in the photo and did you estimate from there?
+
+Whichever method you used to get your estimate, ask yourself if there were many variables involved or if you just guessed. How accurate was your estimate, did you even get close? What factors influenced the outcome you got?
+
+OK, that's enough suspense. The building is the new Salesforce Tower in San Francisco, and it is 326 meters tall. How close was your estimate?
+
+If you didn't already know the exact answer, I'd expect a range of responses. Some people will have just guessed; they may have been close, but they also may have been way off. If you didn't guess and tried to estimate the height, then your estimate will depend on certain factors. For example, did you count the floors accurately, would you know how much taller the ground floor lobby is compared to other floors? Are some of the top floors shorter than other floors? Is there an uninhabited part near the top where the there are no floors, how tall is that cap? And so on.
+
+To accurately estimate the size of the Salesforce Tower, there are specific pieces of information that you need, which if you don't know you will have to discover. Some of the information you'll be able to discover up front, and some you won't even know you need to know until you start to work through the problem.
+
+However, now that you know how tall the tallest building is, take another look at the photo. Could you estimate the size of the second tallest building, the Transamerica Pyramid?
+
+
+
+Photo credit: istock.com/xavierarnau
+
+If we compare the two buildings, we can see that the Transamerica Pyramid is smaller, but not by much. In fact, you could probably guess what percentage height it is of the Salesforce building.
+
+What percentage height do you think it is? It's a much easier question compared to the original question we asked, which was to estimate the height in meters. When looking at the two buildings next to each other, we can judge relative/comparative size more easily.
+
+If you guessed that the Transamerica Pyramid was around 80% of the height of the Salesforce Tower, then you'd be very close to its height of 260 meters.
+
+From this point on, now that you know the size of one or two buildings, it becomes easier to estimate the others. It's not an exact science, but it isn't supposed to be. Relative sizing is designed to help us to be more instinctual in our estimates, something that humans are quite good at.
+
+Therefore, before starting with relative sizing, we need to start with a User Story that we know enough about to size. One way to set this is up is to spread the stories out on the table for the team to find what they think is a good example of a medium-sized story. This will involve some level of discussion amongst the team.
+
+Once you've identified a medium-sized story in the group, put it in the center of the table, and put the rest of the User Stories into a pile. The medium story sitting in the middle of the table is now your yardstick, and you'll use it as a comparison to the rest. Take the next story from the pile and compare it to the medium story: "Is it smaller, larger, or is it the same size?"
+
+Repeat this process for all the stories that are in the pile; don't worry about granularities of small, medium, or large at this stage. If it's large, it's on the right-hand side of the table, and if it's small it's on the left. If it's medium, it's in the middle. One way to speed this process up is to hand out stories to each participant and allow them to relative-size the cards themselves.
+
+The advantage of this approach, comparing two or more items against each other, is that we develop a much more instinctual approach to estimation. We're no longer dealing in absolutes because we're looking at things relatively. The law of averages should mean that we don't need to hold the team to the accuracy of their estimates, as we know things will balance out in the long run. All of this, therefore, makes estimation a much more painless approach.
