@@ -5,6 +5,11 @@
 - *I*nsights & Lessons
 - *T*eam Shoutouts
 
+#### 'ins
+- Wins; What's gone well or made you feel great?
+- Sins; Where did we step away from good?
+- Begins; What do we need to begin doing?
+
 #### The 3 Ls: Liked – Learned – Lacked
 http://www.funretrospectives.com/the-3-ls-liked-learned-lacked/
 
