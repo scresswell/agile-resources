@@ -11,7 +11,7 @@ The sprint review should take place immediately after the end of the sprint and 
 ## Who should attend:
 All stakeholders to whom the delivered items are relevant, or who will have relevant opinions on them, or who will have opinions on the future backlog.
 
-##Format
+## Format
 - Welcome (Squad rep) - introduce new people and those who will be presenting
 - Outline the ground rules and expectations
 - Provide an overview of the previous Sprint Backlog to show what will be demonstrated (and what won’t be): User story; status; Demo (Y/N)
